@@ -11,6 +11,8 @@ pkgs.mkShellNoCC {
     lunarvim
     lazygit
     tmux
-];
+    cargo
+    rustc
+  ];
 }
 
